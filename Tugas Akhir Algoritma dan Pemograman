@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(){
+    printf("Panduan Tugas Akhir Algoritma dan Pemograman");
+}
+// Nama : Junnah Alam Sentosa
+// NIM  : 11750514904
